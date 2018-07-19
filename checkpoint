@@ -1,0 +1,2 @@
+model_checkpoint_path: "D:/pywork/RBM/model.ckpt"
+all_model_checkpoint_paths: "D:/pywork/RBM/model.ckpt"
