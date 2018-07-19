@@ -129,7 +129,7 @@ x_Train[9999]
 
 
 init = tf.global_variables_initializer()
-ckpt_file = 'D:/pywork/RBM/'
+ckpt_file = ''
 saver = tf.train.Saver()
 isTrain = False
 with tf.Session() as sess:
